@@ -1,5 +1,5 @@
-#前端笔记
-##HTML总结
+# 前端笔记
+## HTML总结
 ![](images/element.webp)
 - **块元素：**
 address – 地址   
@@ -72,7 +72,7 @@ action:提交路径&nbsp;&nbsp;&nbsp;methods:提交方法（get/post）
 对于GET方式的请求，浏览器会把http header和data一并发送出去，服务器响应200（返回数据）；
 而对于POST，浏览器先发送header，服务器响应100 continue，浏览器再发送data，服务器响应200 ok（返回数据）。
 
-##css总结  
+## css总结  
 - **css选择器**
 1. 元素选择器  
 元素选择器（标签选择器），可以根据标签的名字来从页面中选取指定的元素。  
